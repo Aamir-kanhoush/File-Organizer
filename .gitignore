@@ -1,0 +1,11 @@
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+#tester
+tester/
